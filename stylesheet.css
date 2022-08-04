@@ -16,10 +16,9 @@ body {
 .navbar tab {
   padding: 14px 20px;
   float: right;
-  text-align: center;
 }
 
 .navbar tab.left {
   float: left;
-  font-size: 40px;
+  font-weight: bold;
 }
