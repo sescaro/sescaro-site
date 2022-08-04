@@ -5,4 +5,19 @@
 
 body {
   font-family: Bronx;
+  background: #F4F4F4;
+}
+
+.navbar {
+  padding: 14px 20px;
+  font-size: 20px;
+}
+
+.navbar tab {
+  float: right;
+}
+
+.navbar tab.left {
+  float: left;
+  font-size: 30px;
 }
