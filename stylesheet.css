@@ -11,6 +11,7 @@ body {
 .navbar {
   font-size: 30px;
   text-align: center;
+  color: #515752;
 }
 
 .navbar tab {
@@ -21,4 +22,5 @@ body {
 .navbar tab.left {
   float: left;
   font-weight: bold;
+  color: black;
 }
