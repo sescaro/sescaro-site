@@ -2,6 +2,12 @@ body {
   text-align: center;
 }
 
-.title {
+.tabs {
+  padding: 20px;
+  color: #515752;
+  border: 5px solid white;
+}
 
+.tabs a:link {
+  text-decoration: none;
 }
