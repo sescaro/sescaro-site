@@ -11,16 +11,20 @@ body {
 .navbar {
   font-size: 30px;
   text-align: center;
+}
+
+.navbar a {
+  padding: 14px 20px;
+  float: right;
   color: #515752;
 }
 
-.navbar tab {
-  padding: 14px 20px;
-  float: right;
-}
-
-.navbar tab.left {
+.navbar a.left {
   float: left;
   font-weight: bold;
   color: black;
+}
+
+.navbar a:link {
+  text-decoration: none;
 }
