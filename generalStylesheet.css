@@ -9,24 +9,31 @@ body {
   margin: 0;
 }
 
-.navbar {
-  font-size: 50px;
-  text-align: center;
-}
-
-.navbar a {
-  padding: 24px 30px;
-  float: right;
-  color: #515752;
-  background: white;
-}
-
-.navbar a.left {
+.left {
   float: left;
   font-weight: bold;
-  color: black;
 }
 
-.navbar a:link {
+ul {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  background: white;
+  font-size: 50px;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #515752;
+  text-align: center;
+  padding: 24px 30px;
   text-decoration: none;
+}
+
+li a.left {
+  color: black;
 }
