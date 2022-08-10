@@ -2,6 +2,21 @@ body {
   text-align: center;
 }
 
+.navbar {
+  font-size: 30px;
+  font-weight: bold;
+  background: white;
+  padding 14px 20px;
+}
+
+.navbar a {
+  color: white;
+}
+
+.navbar a:link {
+  text-decoration: none;
+}
+
 .tabs {
   padding: 20px;
   border: 5px solid #F4F4F4;
