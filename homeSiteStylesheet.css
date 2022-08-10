@@ -19,7 +19,7 @@ body {
 
 .tabs {
   padding: 110px;
-  border: 5px solid #F4F4F4;
+  border: 5px solid #bacdd9;
   font-size: 40px;
   line-height: 3;
 }
@@ -31,4 +31,8 @@ body {
 
 .tabs a:link {
   text-decoration: none;
+}
+
+.tabs a:hover {
+  color: white;
 }
