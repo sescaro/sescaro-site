@@ -31,6 +31,9 @@ li a {
   color: #515752;
   text-align: center;
   padding: 24px 30px;
+}
+
+li a:link {
   text-decoration: none;
 }
 
