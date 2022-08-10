@@ -3,10 +3,10 @@ body {
 }
 
 .homeTitle {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: bold;
   background: white;
-  padding 14px 20px;
+  padding 24px 30px;
 }
 
 .homeTitle a {
@@ -20,6 +20,8 @@ body {
 .tabs {
   padding: 20px;
   border: 5px solid #F4F4F4;
+  font-sizee: 40px;
+  line-height: 3;
 }
 
 .tabs a {
