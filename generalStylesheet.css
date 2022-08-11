@@ -16,6 +16,8 @@ body {
 
 .bottom {
   bottom: 0;
+  position: fixed;
+  width: 100%;
   font-size: 25px;
   padding: 14px 20px;
   background: white;
