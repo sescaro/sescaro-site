@@ -18,14 +18,13 @@ body {
 }
 
 .tabs {
-  padding: 7.5%;
+  display: inline-block;
   font-size: 40px;
   line-height: 3;
 }
 
 .tabs a {
   color: #515752;
-  display: block;
 }
 
 .tabs a:link {
