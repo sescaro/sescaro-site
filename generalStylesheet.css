@@ -14,11 +14,15 @@ body {
   font-weight: bold;
 }
 
-.bottom {
+.footnote {
   bottom: 0;
   position: fixed;
   width: 100%;
   font-size: 25px;
+  background: white;
+}
+
+.header{
   background: white;
 }
 
@@ -30,6 +34,7 @@ ul {
 }
 
 li a {
+  float: right;
   display: block;
   color: #515752;
   text-align: center;
