@@ -10,51 +10,35 @@ body {
   margin: auto;
 }
 
-.left {
-  float: left;
-  font-weight: bold;
-}
-
 .footnote {
+  display: flex;
+  font-size: 25px;
+  background: white;
+  gap: 30px;
   bottom: 0;
   margin-bottom: 0;
   position: fixed;
   width: 100%;
-  font-size: 25px;
+  padding: 24px;
+  font-weight: bold;
+}
+
+.header {
   background: white;
+  top: 0;
+  margin-top: 0;
+  position: fixed;
 }
 
-.header{
-  background: white;
-}
-
-ul {
-  list-style-type: none;
-  overflow: hidden;
-  position: relative;
-  font-size: 40px;
-}
-
-li a {
-  display: block;
+div a {
   color: #515752;
-  text-align: center;
-  padding: 24px 30px;
-}
-
-li a:link {
   text-decoration: none;
 }
 
-li a:hover {
+div a:hover {
   color: #bacdd9;
 }
 
-li a.left {
+div a.left {
   color: black;
-  text-decoration: none;
-}
-
-li a.right {
-  float: right;
 }
