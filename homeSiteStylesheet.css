@@ -2,7 +2,8 @@
   font-size: 50px;
   font-weight: bold;
   background: white;
-  padding: 24px 30px;
+  padding: relative;
+  margin: auto;
 }
 
 .homeTitle a {
