@@ -14,9 +14,11 @@
 }
 
 .tabs {
-  display: inline-block;
+  display: block;
+  margin: auto;
   font-size: 40px;
   line-height: 3;
+  transform: translateY(32%);
 }
 
 .tabs a {
