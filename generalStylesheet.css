@@ -7,7 +7,7 @@ body {
   font-family: Bronx;
   text-align: center;
   background: #bacdd9;
-  margin: 0;
+  margin: auto;
 }
 
 .left {
@@ -17,6 +17,7 @@ body {
 
 .footnote {
   bottom: 0;
+  margin-bottom: 0;
   position: fixed;
   width: 100%;
   font-size: 25px;
@@ -29,8 +30,8 @@ body {
 
 ul {
   list-style-type: none;
-  margin: 0;
   overflow: hidden;
+  position: relative;
   font-size: 40px;
 }
 
