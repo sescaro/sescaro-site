@@ -10,6 +10,23 @@ body {
   margin: auto;
 }
 
+.header {
+    display: flex;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 24px;
+    gap: 30px;
+    background: white;
+}
+
+.title {
+  justify-content: left;
+}
+
+.tabs {
+  justify-content: right;
+}
+
 .footnote {
   display: flex;
   font-size: 25px;
