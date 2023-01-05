@@ -10,7 +10,38 @@ body {
   margin: auto;
 }
 
-.header {
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: white;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #515752;
+  text-align: center;
+  padding: 24px 30px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #bacdd9;
+}
+
+.index {
+  float: left;
+  color: black;
+}
+
+/*.navbar {
     display: flex;
     font-size: 50px;
     font-weight: bold;
@@ -25,9 +56,9 @@ body {
 
 .tabs {
   justify-content: right;
-}
+}*/
 
-.footnote {
+.footer {
   display: flex;
   font-size: 25px;
   background: white;
