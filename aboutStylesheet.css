@@ -1,3 +1,11 @@
 .text {
-  
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 24px 30px;
+  text-decoration: none;
+}
+
+.links a:hover{
+  color: #C1E1C1;
 }
