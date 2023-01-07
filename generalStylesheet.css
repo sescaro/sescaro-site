@@ -6,7 +6,6 @@
 body {
   font-family: Bronx;
   text-align: center;
-  background: #C1E1C1;
   margin: auto;
 }
 
@@ -75,15 +74,11 @@ body {
   font-weight: bold;
 }
 
-div a {
+.external a {
   color: #515752;
   text-decoration: none;
 }
 
-div a:hover {
-  color: #bacdd9;
-}
-
-div a.left {
+.title {
   color: black;
 }
