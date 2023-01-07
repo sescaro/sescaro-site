@@ -11,6 +11,7 @@ body {
 }
 
 .navbar {
+  display: block;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -20,42 +21,45 @@ body {
   font-weight: bold;
 }
 
-li {
+.pages a {
   float: right;
-}
-
-li a {
-  display: block;
   color: #515752;
-  text-align: center;
   padding: 24px 30px;
   text-decoration: none;
 }
 
-li a:hover {
-  color: #bacdd9;
+.pages a:hover {
+  color: #C1E1C1;
 }
 
-.index {
+.home a {
   float: left;
   color: black;
+  padding: 24px 30px;
+  text-decoration: none;
 }
 
-/*.navbar {
-    display: flex;
-    font-size: 50px;
-    font-weight: bold;
-    padding: 24px;
-    gap: 30px;
-    background: white;
+/*.footer {
+  display: block;
+  font-size: 25px;
+  background: white;
+  bottom: 0;
+  margin-bottom: 0;
+  position: fixed;
+  width: 100%;
+  font-weight: bold;
+  list-style-type: none;
 }
 
-.title {
-  justify-content: left;
+.links a {
+  float: left;
+  color: #515752;
+  padding: 24px 30px;
+  text-decoration: none;
 }
 
-.tabs {
-  justify-content: right;
+.links a:hover {
+  color: #C1E1C1;
 }*/
 
 .footer {
