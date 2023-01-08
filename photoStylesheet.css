@@ -1,0 +1,15 @@
+body {
+  background: #ff6961;
+}
+
+.text {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 24px 30px;
+  text-decoration: none;
+}
+
+.external a:hover{
+  color: #ff6961;
+}
