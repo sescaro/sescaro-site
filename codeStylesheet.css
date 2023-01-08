@@ -1,9 +1,9 @@
 body {
-  background: #FDFD96;
+  background: #A79AFF;
 }
 
 .pages a:hover {
-  color: #FDFD96;
+  color: #A79AFF;
 }
 
 .text {
@@ -15,5 +15,5 @@ body {
 }
 
 .external a:hover{
-  color: #FDFD96;
+  color: #A79AFF;
 }
