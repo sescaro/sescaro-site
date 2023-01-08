@@ -1,0 +1,19 @@
+body {
+  background: #FDFD96;
+}
+
+.pages a:hover {
+  color: #FDFD96;
+}
+
+.text {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 24px 30px;
+  text-decoration: none;
+}
+
+.external a:hover{
+  color: #FDFD96;
+}
