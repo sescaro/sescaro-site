@@ -2,6 +2,10 @@ body {
   background: #C1E1C1;
 }
 
+.pages a:hover {
+  color: #C1E1C1;
+}
+
 .text {
   float: left;
   color: black;
