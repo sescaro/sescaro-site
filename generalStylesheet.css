@@ -27,10 +27,6 @@ body {
   text-decoration: none;
 }
 
-.pages a:hover {
-  color: #C1E1C1;
-}
-
 .home a {
   float: left;
   color: black;
