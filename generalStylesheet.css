@@ -34,29 +34,6 @@ body {
   text-decoration: none;
 }
 
-/*.footer {
-  display: block;
-  font-size: 25px;
-  background: white;
-  bottom: 0;
-  margin-bottom: 0;
-  position: fixed;
-  width: 100%;
-  font-weight: bold;
-  list-style-type: none;
-}
-
-.links a {
-  float: left;
-  color: #515752;
-  padding: 24px 30px;
-  text-decoration: none;
-}
-
-.links a:hover {
-  color: #C1E1C1;
-}*/
-
 .footer {
   display: flex;
   font-size: 25px;
@@ -69,6 +46,7 @@ body {
   padding: 24px;
   font-weight: bold;
   list-style-type: none;
+  justify-content: center;
 }
 
 .external a {
