@@ -1,10 +1,10 @@
 ## Welcome to my personal site!
 
-As of 8/9/22, the site features include:
+As of 1/12/23, the site features include:
   1. About
   		1. A little bit about me!
   2. Photography
-    	1. My photography work
+    	1. My photography portfolio, with some of my favorite work
   3. Coding Projects
   		1. Showcase of projects I have worked on in past classes and some current/future ones!
   4. Hyperlinks to my social media
