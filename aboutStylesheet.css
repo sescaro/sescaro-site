@@ -6,6 +6,10 @@ body {
   color: #C1E1C1;
 }
 
+.content {
+  display: grid;
+}
+
 .text {
   float: left;
   color: black;
