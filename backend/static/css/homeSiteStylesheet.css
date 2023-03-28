@@ -2,41 +2,6 @@ body {
   background: #bacdd9;
 }
 
-.homeTitle {
-  font-size: 40px;
-  font-weight: bold;
-  background: white;
-  padding: 24px;
-}
-
-.homeTitle a {
-  color: black;
-}
-
-.homeTitle a:link {
-  text-decoration: none;
-}
-
-.tabs {
-  display: block;
-  margin: auto;
-  font-size: 40px;
-  line-height: 3;
-  transform: translateY(27%);
-}
-
-.tabs a {
-  color: #515752;
-}
-
-.tabs a:link {
-  text-decoration: none;
-}
-
-.tabs a:hover {
-  color: white;
-}
-
 .pages a:hover {
   color: #bacdd9;
 }
