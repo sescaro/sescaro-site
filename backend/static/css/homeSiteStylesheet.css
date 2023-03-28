@@ -16,7 +16,7 @@ body {
     text-align: left;
 }
 
-.item2{
+.gif{
     grid-area: welcomeGIF;
     max-height: 90%;
     margin-left: 30px;

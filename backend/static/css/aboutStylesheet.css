@@ -6,8 +6,26 @@ body {
   color: #C1E1C1;
 }
 
+.pic {
+    grid-area: photo;
+    max-width: 16%;
+    margin: 30px;
+}
+
+.introText {
+   grid-area: intro;
+   margin-left: 30px;
+}
+
 .content {
   display: grid;
+  grid-template-areas:
+       'intro photo';
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+  background-color: white;
+  border-radius: 25px;
 }
 
 .text {
