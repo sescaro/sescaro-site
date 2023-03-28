@@ -12,14 +12,14 @@ body {
 
 .msg{
     grid-area: message;
-    margin-right: 30px;
+    padding-right: 30px;
     text-align: left;
 }
 
 .gif{
     grid-area: welcomeGIF;
     max-height: 90%;
-    margin-left: 30px;
+    padding-left: 30px;
 }
 
 .container{
