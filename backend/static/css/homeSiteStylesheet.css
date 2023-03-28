@@ -36,3 +36,20 @@ body {
 .external a:hover {
   color: #bacdd9;
 }
+
+@media screen and (max-width: 960px) {
+    .gif{
+        padding-top: 30px;
+        padding-left: 0;
+    }
+    .msg {
+        padding-bottom: 30px;
+    }
+    .container{
+        grid-template-areas:
+            'welcomeGIF'
+            'message';
+        justify-items: center;
+        margin-bottom: 80px;
+    }
+}

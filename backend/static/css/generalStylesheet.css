@@ -43,7 +43,7 @@ body {
   margin-bottom: 0;
   position: fixed;
   width: 100%;
-  padding: 24px;
+  padding: 24px 24px 24px 0px;
   font-weight: bold;
   list-style-type: none;
   justify-content: center;
@@ -56,4 +56,14 @@ body {
 
 .title {
   color: black;
+}
+
+@media screen and (max-width: 960px) {
+    .container{
+        grid-template-areas:
+            'welcomeGIF'
+            'message';
+        justify-items: center;
+        margin-bottom: 80px;
+    }
 }
