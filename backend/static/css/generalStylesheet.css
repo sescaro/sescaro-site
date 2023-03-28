@@ -1,6 +1,6 @@
 @font-face {
   font-family: Bronx;
-  src: url(../sescaro-site/Bronx_PersonalUse.otf);
+  src: url(../fonts/Bronx_PersonalUse.otf);
 }
 
 body {
@@ -16,7 +16,7 @@ body {
   padding: 0;
   overflow: hidden;
   background: white;
-  font-size: 45px;
+  font-size: 40px;
   font-weight: bold;
 }
 
@@ -36,7 +36,7 @@ body {
 
 .footer {
   display: flex;
-  font-size: 25px;
+  font-size: 20px;
   background: white;
   gap: 30px;
   bottom: 0;

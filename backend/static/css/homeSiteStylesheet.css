@@ -3,7 +3,7 @@ body {
 }
 
 .homeTitle {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
   background: white;
   padding: 24px;
@@ -22,7 +22,7 @@ body {
   margin: auto;
   font-size: 40px;
   line-height: 3;
-  transform: translateY(32%);
+  transform: translateY(27%);
 }
 
 .tabs a {
