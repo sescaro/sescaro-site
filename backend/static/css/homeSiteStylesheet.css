@@ -37,6 +37,37 @@ body {
   color: white;
 }
 
+.pages a:hover {
+  color: #bacdd9;
+}
+
+.noBulletPoint{
+    list-style-type: none;
+}
+
+.msg{
+    grid-area: message;
+    margin-right: 30px;
+    text-align: left;
+}
+
+.item2{
+    grid-area: welcomeGIF;
+    max-height: 90%;
+    margin-left: 30px;
+}
+
+.container{
+    display: grid;
+    grid-template-areas:
+        'welcomeGIF message';
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    background-color: white;
+    border-radius: 25px;
+}
+
 .external a:hover {
   color: #bacdd9;
 }
